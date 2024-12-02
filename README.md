@@ -101,5 +101,5 @@ Asegúrate de ajustar las rutas y configuraciones según tu entorno.
 ## Contacto
 
 Si tienes preguntas o necesitas ayuda, no dudes en contactarnos:
-- **Correo**: support@ejemplo.com
+- **Correo**: vicentedomingo2003@gmail.com
 - **GitHub**: [DomingoVicente](https://github.com/DomingoVicente)
