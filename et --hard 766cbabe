@@ -1,0 +1,39 @@
+[33m68b17833[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Merge branch 'main' of https://github.com/MatsuokiSF/IEF_2024
+[33m766cbabe[m docker listo
+[33m4f0ed8b3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Subida modularizacion manual
+[33m73c948e6[m frontend en puerto 3009
+[33m369b82a9[m Merge branch 'main' of https://github.com/MatsuokiSF/IEF_2024
+[33m273dfc67[m uso de puerto 4009 para backend
+[33mdb6d6b56[m Merge branch 'vicente'
+[33mce2590d3[m[33m ([m[1;31morigin/vicente[m[33m)[m Cambio en persistence
+[33mc7073a67[m Update InactivityHandler.js (10 minutos inactividad)
+[33m5a768045[m Merge branch 'dornersito'
+[33m18f78f7d[m Merge branch 'main' of https://github.com/MatsuokiSF/IEF_2024
+[33m4f888a9a[m Back Modu
+[33mad9caccd[m Revert "Mod"
+[33m6446dbd1[m Avance con docker 1
+[33mf7826110[m Avance con docker
+[33m3b43c227[m Version 01
+[33mfd8d993c[m Mod
+[33m3ba0598c[m add icons
+[33mdfa717b3[m[33m ([m[1;32mdornersito[m[33m)[m subida de archivos completada, pagina de archivos cargada con boton refresh
+[33mbe4df540[m Modularizacion Backend
+[33m4a80aad4[m docker
+[33mfff80e39[m Frontend add loading, navigation,inactivityTimer and /uploader page
+[33m87a23f68[m[33m ([m[1;31morigin/niconiii[m[33m)[m verificacion de excel
+[33m3fb04be7[m Merge Home PageMain Logic Upload File
+[33mc79c8b0e[m[33m ([m[1;31morigin/yvan[m[33m)[m Resuelto conflicto en .gitignore
+[33m639428f8[m excel siqsi
+[33m9091fed1[m excel definitivo
+[33m0ead67d1[m Remove node_modules from repository
+[33m82c5df82[m excel
+[33m8748f12a[m subir archivo excel
+[33m650296bb[m Merge branch 'main' of https://github.com/MatsuokiSF/IEF_2024
+[33me0657883[m Add firebase logic and .env
+[33m901f2cd5[m Estructura Backend
+[33m42c740e3[m Backend
+[33mbe79d0df[m add gitignore
+[33m9b2ad904[m rm node_modules
+[33m954778d8[m desviacion a uach y INFOR
+[33m17f33fb8[m desvio a uach y INFOR
+[33mbb482714[m update login frontend
