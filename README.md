@@ -23,6 +23,8 @@ Esta es una aplicación web que permite a los usuarios cargar dos archivos, proc
 
 ## Instalación
 
+El manual de instalación se encuentra dentro de la carpeta Docs
+
 ### 1. Clonar el repositorio
 Clona este repositorio en tu máquina local:
 ```bash
