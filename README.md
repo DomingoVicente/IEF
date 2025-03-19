@@ -71,8 +71,13 @@ Si es necesario compilar el código (por ejemplo, si usas TypeScript o algún pr
 1. Construye y ejecuta los contenedores:
    ```bash
    docker-compose up
+   docker-compose logs -f
    ```
-2. Accede a la aplicación a través de la URL del contenedor (por defecto: `http://localhost:3009`).
+2. Para terminar la ejecución
+   ```bash
+   docker-compose down
+   ```
+3. Accede a la aplicación a través de la URL del contenedor (por defecto: `http://localhost:3009`).
 
 ---
 
